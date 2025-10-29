@@ -1,0 +1,7 @@
+discord.py>=2.3.0
+feedparser>=6.0.10
+aiohttp>=3.9.0
+apscheduler>=3.10.0
+g4f>=0.3.0.0
+python-dotenv>=1.0.0
+aiosqlite>=0.19.0

@@ -1,0 +1,31 @@
+{
+  "default_categories": {
+    "News & Current Affairs": [
+      "https://feeds.bbci.co.uk/news/rss.xml",
+      "http://rss.cnn.com/rss/edition.rss",
+      "https://www.theguardian.com/world/rss",
+      "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+    ],
+    "Technology & Startups": [
+      "http://feeds.feedburner.com/TechCrunch/",
+      "https://www.theverge.com/rss/index.xml",
+      "https://www.wired.com/feed/rss",
+      "https://news.ycombinator.com/rss"
+    ],
+    "Business & Finance": [
+      "https://www.forbes.com/business/feed/",
+      "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+      "https://www.economist.com/latest/rss.xml",
+      "https://www.marketwatch.com/rss/topstories"
+    ],
+    "Entertainment & Pop Culture": [
+      "https://variety.com/feed/",
+      "https://www.rollingstone.com/music/music-news/feed/",
+      "https://www.hollywoodreporter.com/t/feed/",
+      "https://ew.com/feed/"
+    ]
+  },
+  "embed_color": "0x3498db",
+  "max_summary_posts": 50,
+  "post_description_length": 200
+}
